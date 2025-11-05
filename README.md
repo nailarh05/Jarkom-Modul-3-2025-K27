@@ -6,7 +6,7 @@
 | Nama | NRP |
 |------|------|
 | Naila Raniyah Hanan | 5027241078|
-| Naufan Andi | 50272410 |
+| Naufan Andi | 5027241059|
 
 ---
 
